@@ -1,3 +1,5 @@
+"use client";
+
 import MainNav from "@/components/main-nav";
 
 interface DashboardLayoutProps {

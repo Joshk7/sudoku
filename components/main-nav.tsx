@@ -1,3 +1,5 @@
+"use client";
+
 import NavDropdownMenu from "./nav-dropdown-menu";
 import { Button } from "./ui/button";
 
